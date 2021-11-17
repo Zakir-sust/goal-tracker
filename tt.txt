@@ -1,0 +1,44 @@
+
+
+
+1) Task tracker 	2) Spending tracker		3) Productive hour tracker
+
+
+1) Task tracker:
+
+a) User login
+b) See tasks
+c) add tasks
+d) delete tasks
+e) query tasks - time,task_name
+
+
+
+# Database:
+a) User:
+	user_id, 
+	task_list: task_description,task_time,task_date
+	completed_tasks:	||
+
+
+
+
+# Backend:
+
+a) register user
+b) get list of tasks
+c) add a task
+d) delete a task
+e) get list of completed tasks
+f) query in the completed tasks
+
+
+
+# Frontend:
+
+a) initially login/signup page
+b) User's tasklist page	    -> show tasks,add task,delete task,go to completed_tasks
+c) User's completed_tasks page     -> show completed tasks,can query with time,task_name
+
+
+# 3 numbers specify year, month, and day:

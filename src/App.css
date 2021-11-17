@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.sile{
+  display:block;
+  background-color:whitesmoke;
+  padding:20px;
+  margin-bottom:40px;
+}
+.link{
+  margin:30px;
+}

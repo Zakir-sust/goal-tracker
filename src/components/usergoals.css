@@ -1,0 +1,27 @@
+.goal{
+    margin:25px auto;
+    background-image: url('../images/bg2.jpg');
+    display: inline-block;
+    width:350px;
+    padding:25px 20px;
+    font-size: large;
+    margin:20px;
+}
+.goal-wrapper{
+    background-image:url('../images/bk.jpg');   
+    margin:40px;
+    padding:30px;
+}
+.bt-completed{
+    background-color:green;
+}
+
+.bt-delete{
+    background-color:red;
+}
+
+.bt-comgoals{
+    margin:30px auto;
+    padding:6px 4px;
+    background-color:aquamarine
+}
