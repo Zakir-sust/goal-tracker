@@ -1,3 +1,5 @@
-1) install necessary dependencies
-2) goto backend and run server.js
-3) npm start
+- install necessary dependencies
+    run npm install at the root directory
+- goto root/backend and run nodemon server
+- at root run npm start
+

@@ -1,0 +1,14 @@
+.log-form{
+    margin:30px;
+
+}
+label{
+    margin-left:30px;
+}
+
+.bt-log{
+    display:block;
+    margin:10px auto;
+    padding:5px 15px;
+    font-size:medium;
+}
